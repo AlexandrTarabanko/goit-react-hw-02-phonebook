@@ -1,0 +1,26 @@
+.contactList{
+    list-style-image: url('../../images/phone-call-svgrepo-com.svg')
+}
+
+.contactItem{
+    position: relative;
+    font-size: large;
+}
+
+.deleteBtn{
+    cursor: pointer;
+    position: absolute;
+    top: 10%;
+    left: 25%;
+
+    border-radius: 5px;
+    background-color: whitesmoke;
+
+    transition: background-color 500ms;
+
+    &:hover,&:focus{
+        background-color:#e47200;
+        border: 2px solid #e47200;
+        color:white;
+    }
+}
