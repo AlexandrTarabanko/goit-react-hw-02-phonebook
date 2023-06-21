@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-02-phonebook/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-hw-02-phonebook/static/js/main.07d3183d.js",
+    "main.css": "/goit-react-hw-02-phonebook/static/css/main.373eaabd.css",
+    "main.js": "/goit-react-hw-02-phonebook/static/js/main.5748dee6.js",
+    "static/media/phone-call-svgrepo-com.svg": "/goit-react-hw-02-phonebook/static/media/phone-call-svgrepo-com.8fa580c3a2e722efcee5.svg",
     "index.html": "/goit-react-hw-02-phonebook/index.html",
-    "main.7acaea2f.css.map": "/goit-react-hw-02-phonebook/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/goit-react-hw-02-phonebook/static/js/main.07d3183d.js.map"
+    "main.373eaabd.css.map": "/goit-react-hw-02-phonebook/static/css/main.373eaabd.css.map",
+    "main.5748dee6.js.map": "/goit-react-hw-02-phonebook/static/js/main.5748dee6.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.373eaabd.css",
+    "static/js/main.5748dee6.js"
   ]
 }
