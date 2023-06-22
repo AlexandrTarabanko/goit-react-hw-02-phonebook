@@ -21,8 +21,7 @@ export class App extends Component {
     this.setState({ [name]: value });
   };
 
-  addContact = FormData => {
-    const { name, number } = FormData;
+  addContact = ({ name, number }) => {
     const optimizedName = name.toLowerCase();
     const isAdded = this.state.contacts.find(
       contact => contact.name.toLowerCase() === optimizedName
